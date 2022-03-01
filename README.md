@@ -4,16 +4,8 @@
   App Biscoito da Sorte 🥠
 </h1>
 
-<h4 align="center">
-    App Biscoito da Sorte 🥠
-</h4>
-
 
 <br/>
-
-<p align="center">
-  <a href="#Pre-Requisitos">Pre-requisitos</a> 
-</p>
 
 # Pre-Requisitos
 
